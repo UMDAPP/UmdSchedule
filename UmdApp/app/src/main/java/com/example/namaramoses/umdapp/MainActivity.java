@@ -11,7 +11,7 @@ public class MainActivity extends ActionBarActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //Moses Namara and William
+        //William kwao
     }
 
     @Override
